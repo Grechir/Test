@@ -1,2 +1,1 @@
-# Skillfactory
-Skillfactory projects
+Nothing to see
